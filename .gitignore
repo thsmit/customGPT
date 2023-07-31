@@ -1,0 +1,4 @@
+key.py
+*.sqlite3
+*.bin
+__pycache__/
